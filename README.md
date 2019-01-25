@@ -1,5 +1,5 @@
 # ShapeokoDust
-Open Source, Free Z Axis dustboot for Shapeoko 3.  Based off of https://www.suckitdustboot.com/  Make sure to check them out if you want a premade one!
+Open Source, Free Z Axis dustboot for Shapeoko 3.  Based off of https://www.suckitdustboot.com/ make sure to check them out if you want a premade one!
 
 Tutorial, Download, and Resource Links all below:
 
